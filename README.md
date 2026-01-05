@@ -541,6 +541,7 @@ No copyright infringement intended. Formula 1 and related trademarks are the pro
 ## 🗺️ Roadmap
 
 See [roadmap.md](roadmap.md) for planned features and project vision.
+Not yet proposed but will soon enough do.
 
 **Upcoming Features:**
 - GUI menu for race selection
@@ -552,6 +553,6 @@ See [roadmap.md](roadmap.md) for planned features and project vision.
 
 ---
 
-**Built with ❤️ by [Tom Shaw](https://tomshaw.dev)**
+**Built with ❤️ by [Kasa](https://www.linkedin.com/in/kasayeshwant/) & by Claude for writing this ReadMe**
 
 *Bringing F1 telemetry to life, one frame at a time* 🏎️💨
