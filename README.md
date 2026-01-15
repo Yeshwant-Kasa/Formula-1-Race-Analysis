@@ -2,8 +2,7 @@
 
 A Python application for visualizing Formula 1 race telemetry and replaying race events with interactive controls and a graphical interface.
 
-> **Original Project by:** [Tom Shaw (IAmTomShaw)](https://github.com/IAmTomShaw/f1-race-replay)  
-> **YouTube Tutorial:** [Watch on YouTube](https://youtu.be/TiQEElXyY2w?si=gUBvVcXAz7JRe1O1)
+
 <img width="2553" height="1436" alt="Mexico GrandPrix 2025 RESULT Qualifying" src="https://github.com/user-attachments/assets/b15eae28-90b6-4f25-9d28-f234dd50f6f9" />
 
 
@@ -534,7 +533,8 @@ No copyright infringement intended. Formula 1 and related trademarks are the pro
 - **Original Creator**: [Tom Shaw (IAmTomShaw)](https://github.com/IAmTomShaw)
 - **FastF1 Library**: [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1)
 - **Python Arcade**: [Arcade Library](https://api.arcade.academy/)
-- **Formula 1**: For providing accessible telemetry data
+- **Formula 1**: For providing accessible telemetry data  
+> **YouTube Tutorial:** [Watch on YouTube](https://youtu.be/TiQEElXyY2w?si=gUBvVcXAz7JRe1O1)
 
 ---
 
